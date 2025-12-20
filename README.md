@@ -49,6 +49,7 @@ See 'Rescources' sub-folder for more pictures & videos of the project.
 v1.0 (2023.05.26) - Initial release.  
 v1.1 (2023.05.29) - Optimizing PCB size.  
 v1.2 (2023.05.31) - Fixed PCB bug.  
+v1.3 (2025.12.30) - Update project structure.
 
 &nbsp;
 
