@@ -26,7 +26,7 @@ Notes:
 
 | Diagram - PCB Render                               | Diagram - PCB Render                               |
 |----------------------------------------------------|----------------------------------------------------|
-| ![](Resources/03-pcb-render-front-side.png)        | ![](Resources/04-pcb-render-back-side.png)         |
+| ![](Resources/03-pcb-render-front.png)             | ![](Resources/04-pcb-render-bottom.png)            |
 
 | PCB Manufacturing                                  | PCB Manufacturing                                  |
 |----------------------------------------------------|----------------------------------------------------|
@@ -49,7 +49,8 @@ See 'Rescources' sub-folder for more pictures & videos of the project.
 v1.0 (2023.05.26) - Initial release.  
 v1.1 (2023.05.29) - Optimizing PCB size.  
 v1.2 (2023.05.31) - Fixed PCB bug.  
-v1.3 (2025.12.30) - Update project structure.
+v1.3 (2025.12.30) - Update project structure.  
+v1.4 (2026.01.12) - Minor PCB improvements.  
 
 &nbsp;
 
