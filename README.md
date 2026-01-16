@@ -10,6 +10,9 @@ This project use the following electronic components:
 - 1 x Arduino Nano v3.0 (or Arduino UNO)
 - 1 x Atmel ATtiny85
 - 1 x Capacitor 10uF/16V
+- 2 x 1-pin header
+- 2 x 2-pins header
+- 1 x 3-pins header
 
 Notes:
 - PCB pin-headers 5V-GND-RST-10-11-12-13 allows to program the ATtiny85 from an Arduino UNO, instead of Arduino Nano.
@@ -20,25 +23,25 @@ Notes:
 
 ### Screenshots
 
-| Diagram - Schematics                               | Diagram - PCB                                      |
+| Breadboard                                         | PCB Manufacturing                                  |
 |----------------------------------------------------|----------------------------------------------------|
-| ![](Resources/01-schematic-diagram.png)            | ![](Resources/02-pcb-layout.png)                   |
-
-| Diagram - PCB Render                               | Diagram - PCB Render                               |
-|----------------------------------------------------|----------------------------------------------------|
-| ![](Resources/03-pcb-render-front.png)             | ![](Resources/04-pcb-render-bottom.png)            |
-
-| PCB Manufacturing                                  | PCB Manufacturing                                  |
-|----------------------------------------------------|----------------------------------------------------|
-| ![](Resources/05-pcb-manufacturing-01.jpg)         | ![](Resources/05-pcb-manufacturing-02.jpg)         |
+| ![](Resources/01-breadboard-01.jpg)                | ![](Resources/02-pcb-manufacturing-01.jpg)         |
 
 | PCB Assembly                                       | PCB Assembly                                       |
 |----------------------------------------------------|----------------------------------------------------|
-| ![](Resources/06-pcb-assembly-01.jpg)              | ![](Resources/06-pcb-assembly-02.jpg)              |
+| ![](Resources/03-pcb-assembly-01.jpg)              | ![](Resources/03-pcb-assembly-02.jpg)              |
 
-| Project Final                                      | Project Final (YouTube video)                      |
+| Schematics Diagram                                 | PCB Layout                                         |
 |----------------------------------------------------|----------------------------------------------------|
-| ![](Resources/08-project-final-01.jpg)             | [![](Resources/08-project-final-02.jpg)](https://youtu.be/M8b_7Qr37uk) |
+| ![](Resources/04-schematic-diagram.png)            | ![](Resources/05-pcb-layout.png)                   |
+
+| PCB 3D Render                                      | PCB 3D Render                                      |
+|----------------------------------------------------|----------------------------------------------------|
+| ![](Resources/06-pcb-render-front.png)             | ![](Resources/06-pcb-render-bottom.png)            |
+
+| Case 3D Model                                      | Project Final                                      |
+|----------------------------------------------------|----------------------------------------------------|
+| ![](Resources/07-case-3d-model.jpg)                | ![](Resources/08-project-final.jpg)                |
 
 See 'Rescources' sub-folder for more pictures & videos of the project.
 
@@ -51,6 +54,7 @@ v1.1 (2023.05.29) - Optimizing PCB size.
 v1.2 (2023.05.31) - Fixed PCB bug.  
 v1.3 (2025.12.30) - Update project structure.  
 v1.4 (2026.01.12) - Minor PCB improvements.  
+v1.5 (2026.01.16) - Adding case 3D model.  
 
 &nbsp;
 

@@ -1,4 +1,5 @@
 ATtiny85-Arduino-Programmer-backups/
 fp-info-cache
+*.blend1
 *.kicad_prl
 *.lck
